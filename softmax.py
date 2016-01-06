@@ -2,7 +2,7 @@ import numpy as np
 import scipy.sparse
 import scipy.optimize
 
-
+#softmax_cost
 def softmax_cost(theta, num_classes, input_size, lambda_, data, labels):
     """
 
